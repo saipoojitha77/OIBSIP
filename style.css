@@ -1,0 +1,23 @@
+#convert {
+  background-color:sky-blue;
+}
+#convert:hover {
+  background-color:sky-blue;
+}
+h1 {
+  font-family: sans-serif;
+  color: Blue;
+}
+input {
+  display: block;
+  padding: 12px;
+  margin-top: 12px;
+  font-size: 2em;
+  color:pink;
+  font-family: cursive, sans-serif;
+}
+button {
+  padding: 12px;
+  font-size: 1.4em;
+  color:sky-blue;
+}
